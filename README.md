@@ -13,8 +13,12 @@ This application demonstrates how to set up a local Node.js server using Express
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
 
-2. Install npm with the command 'npm install'
+2. Install npm with the command
+   ```bash
+   npm install
 
-3. Start the server with 'node server.js'
+3. Start the server with
+   ```bash
+   node server.js
 
 4. The server will start at http://localhost:3000.
