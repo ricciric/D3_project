@@ -15,6 +15,6 @@ This application demonstrates how to set up a local Node.js server using Express
 
 2. Install npm with the command 'npm install'
 
-3. Start the server with node server.js
+3. Start the server with 'node server.js'
 
 4. The server will start at http://localhost:3000.
