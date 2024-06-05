@@ -1,12 +1,13 @@
 [
-    {"x": 10, "y": 10, "body": 5, "legs": 2, "eyes": 1, "color": "blue"},
-    {"x": 20, "y": 10, "body": 7, "legs": 3, "eyes": 1.5, "color": "green"},
-    {"x": 30, "y": 10, "body": 9, "legs": 4, "eyes": 2, "color": "brown"},
-    {"x": 10, "y": 20, "body": 11, "legs": 5, "eyes": 2.5, "color": "red"},
-    {"x": 20, "y": 20, "body": 13, "legs": 7, "eyes": 3, "color": "purple"},
-    {"x": 30, "y": 20, "body": 15, "legs": 6, "eyes": 2.8, "color": "orange"},
-    {"x": 40, "y": 10, "body": 17, "legs": 8, "eyes": 3.5, "color": "yellow"},
-    {"x": 40, "y": 20, "body": 19, "legs": 9, "eyes": 4, "color": "black"},
-    {"x": 50, "y": 10, "body": 21, "legs": 10, "eyes": 4.5, "color": "gray"},
-    {"x": 50, "y": 20, "body": 23, "legs": 11, "eyes": 5, "color": "cyan"}
+    {"x": 8, "y": 12, "body": 5, "legs": 2, "eyes": 1, "color": "blue"},
+    {"x": 22, "y": 9, "body": 7, "legs": 3, "eyes": 1.5, "color": "green"},
+    {"x": 28, "y": 12, "body": 9, "legs": 4, "eyes": 2, "color": "brown"},
+    {"x": 9, "y": 18, "body": 11, "legs": 5, "eyes": 2.5, "color": "red"},
+    {"x": 19, "y": 22, "body": 13, "legs": 7, "eyes": 3, "color": "purple"},
+    {"x": 32, "y": 19, "body": 15, "legs": 6, "eyes": 2.8, "color": "orange"},
+    {"x": 38, "y": 11, "body": 17, "legs": 8, "eyes": 3.5, "color": "yellow"},
+    {"x": 42, "y": 18, "body": 19, "legs": 9, "eyes": 4, "color": "black"},
+    {"x": 47, "y": 8, "body": 21, "legs": 10, "eyes": 4.5, "color": "gray"},
+    {"x": 53, "y": 23, "body": 23, "legs": 11, "eyes": 5, "color": "cyan"}
 ]
+
